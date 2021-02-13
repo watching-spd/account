@@ -1,0 +1,40 @@
+v.2019 11 07 Seattle 
+Office of Police 
+Accountability C LOSED  C ASE SUMMARY
+
+ISSUEDDATE:AUGUST 11,2020
+
+CASE NUMBER: 2020OPA-0337 
+
+Allegations of Misconduct & Director’s Findings 
+
+Named Employee #1 
+Allegation(s):Director’s Findings# 15.001 –Standards and Duties 10. Employees Shall Strive to BeProfessional Not Sustained (Unfounded)
+
+This Closed Case Summary (CCS) represents the opinion of the OPA Director regarding the misconduct alleged and therefore sections are written in the first person.
+
+EXECUTIVE SUMMARY: 
+
+It was alleged that an unidentified SPD employee may have made unprofessional statements over police radio. 
+
+ANALYSIS AND CONCLUSIONS: 
+
+Named Employee #1 - Allegation #1 5.001 – Standards and Duties 10. Employees Shall Strive to Be Professional 
+
+OPA received an email from a Seattle Times reporter concerning potential unprofessionalism on the part of an unknown SPD employee. The reporter had become aware of a radio transmission that captured an individual stating, in connection with demonstrators: “shoot ‘em all. Let’s just fucking shoot ‘em.” A Seattle City Councilmember also mentioned this statement during a Council meeting and expressed her concern regarding the content. As a result, OPA initiated this investigation. 
+
+OPA found a Reddit thread that discussed the statement. The poster heard the comment on the site Broadcastify, which contains public safety livestreams. The poster determined that the stream in question was related to a “talkgroup” numbered 27024. The poster noted that, based on crowd-sourced information on another site – RadioReference - this talkgroup was potentially related to King County Youth Services. The poster noted that radio updates only occurred between two to ten times per hour on the channel and predominantly directed personnel to “call central” and to do “temperature checks.” The poster did not believe that it was a tactical channel. The poster isolated the date of the comment as June 2, 2020 and the time as 23:56:26 hours. 
+
+OPA interviewed the Seattle Information Technology Radio Communications Manager. He informed OPA that Broadcastify is comprised of private individuals who aggregate public safety radio channels. He told OPA that there is little to no quality control conducted to verify that the streams actually are what they are characterized to be. He stated that he could not conclusively identify the source of the broadcast from the metadata. However, he concurred with the Reddit poster that the transmissions likely came from King County Youth Services and were not associated with SPD. 
+
+OPA initially listened to the two tactical radio channels that were used by SPD at the date and time the comment was made. The comment was not heard on either channel. OPA then expanded its review to include all radio  
+
+v.2019 11 07 communications from all SPD channels and consoles for the date and time in question. After listening to these recordings, OPA again found no indication that the statement was made by any SPD employee. 
+
+Lastly, OPA spoke with the Chief of King County Youth Services. She told OPA that King County Youth Services did not monitor its radio channels and also did not record them. She had no further information concerning this matter. SPD Policy 5.001-POL-10 requires that SPD employees “strive to be professional at all times.” The policy further instructs that “employees may not engage in behavior that undermines public trust in the Department, the officer, or other officers.” (SPD Policy 5.001-POL-10.) 
+
+Had an SPD officer made the statement captured on radio, it would have constituted a violation of the Department’s professionalism policy. However, based on the totality of the evidence, OPA finds that the statement was not attributable to an SPD employee. Instead, OPA ultimately concludes that the radio channel in question was operated by King County Youth Services. OPA comes to this determination based on three main reasons. First, OPA believes that the Reddit poster’s analysis connecting the radio channel to King County Youth Services was correct. Indeed, the Seattle Information Technology Radio Communications Manager came to a similar conclusion. Second, the radio traffic on the channel was inconsistent with a tactical channel or any other SPD frequency. Most notably, the transmissions were infrequent and addressed issues more akin to those occurring in a corrections facility (i.e. temperature checks). Third, OPA listened to all of SPD’s radio transmissions from the date and time in question and conclusively determined that there was no evidence of the statement. 
+
+While the comment in question was certainly abhorrent, it was not made by an SPD officer. As such, OPArecommends that this allegation be Not Sustained – Unfounded. 
+
+Recommended Finding: Not Sustained (Unfounded)

@@ -1,0 +1,101 @@
+v.2020 09 17Seattle
+Office of Police
+Accountability C LOSED  C ASE SUMMARY
+
+ISSUEDDATE:MAY 28,2020
+
+FROM:DIRECTOR ANDREW MYERBERG
+OFFICE OF POLICE ACCOUNTABILITY
+
+CASE NUMBER:2019OPA-0872
+
+Allegationsof Misconduct and the Director’s Findings
+Named Employee #1Allegation(s):Director’s Findings# 15.001 -Standards and Duties 11. Employees Shall Be Truthful and Complete in All CommunicationSustained
+
+# 25.001 -Standards and Duties 13. Employees Shall Not Use Their Position or Authority for Personal GainSustained
+
+# 35.001 -Standards and Duties 10. Employees Shall Strive to be ProfessionalSustained
+
+# 45.001 -Standards and Duties 14. Retaliation is prohibitedAllegation RemovedImposed DisciplineTermination
+
+EXECUTIVE SUMMARY:
+
+The Complainant, an SPD employee married to another SPD employee, alleged that the Named Employee perjured herself in a court proceeding. The Complainant also alleged that the Named Employee was dishonest in an OPA interview and abused her position as an SPD employee to harass the Complainant.
+
+ADMINISTRATIVE NOTE:
+
+On May 20, 2020, the Complainant in this case contacted OPA and provided additional information regarding an allegation that the Named Employee accessed the Complainant’s MDT Remote Logs as a means of surveilling the Complainant’s activity and reading messages that she sent to her husband, another SPD officer (referred to here as Officer #1). The Complainant alleged that this action violated an Anti-Harassment Order (AHO) issued on November 15, 2019, and that she had just become aware of it due to a PDR request. OPA instituted a new case (see2020OPA-0311) to examine that allegation, which it considers separate from Allegation #2 above.
+
+SUMMARY OF INVESTIGATION:
+
+The Complainant is married to and resides with Officer #1. Officer #1 had previously been in a relationship with Named Employee #1 (NE#1), with whom he has two children in common. The Complainant also has two children from a prior relationship. Officer #1 lives with the Complainant and her children and has visitation rights with the children he has in common with NE#1.
+
+This case arises out of the Complainant’s allegation that NE#1 was dishonest in prior OPA interviews, as well as when testifying as part of court proceedings related to an Anti-Harassment Order (AHO) sought by the Complainant. The Complainant further alleged that NE#1 improperly accessed herMobile Data Terminal (MDT) Remote Logs in order to 
+
+read messages sent by the Complainant to other officers, including Officer #1. This is substantially the same allegation that the Complainant raised in 2019OPA-0698, a prior case between the Complainant and NE#1. In that case, OPA found that NE#1 acted unprofessionally when she accessed the Complainant’s MDT Remote Logs. As a result of that case, NE#1 received discipline and retraining.
+
+In her interview for 2018OPA-0698, NE#1 stated that she accessed the Complainant’s MDT Remote Logs at the direction of one or more superiors. She explained that she had petitioned for a restraining order between the children she shared with Officer #1 and the Complainant’s children. She stated that she had beendirected by superiors to avoid contact with the Complainant, and that she accessed the Complainant’s MDT Remote Logs to obtain real-time 
+information about the Complainant’s whereabouts in order to avoid her.
+
+In October of 2019, the Complainant petitionedfor an AHO in Snohomish County Superior Court. In that hearing, NE#1 again asserted that she believed MDT Remote Logs provided her with real-time location data and allowed her to avoid the Complainant. NE#1 further testified that she did not access the Complainant’s MDT Remote Logs in order to read messages the Complainant sent to other officers, or otherwise monitor the Complainant’s daily activities. The court found that NE#1 could not have obtained a real-time location for the Complainant using MDT Remote Logs because they did not show real-time data. The court further found that, since NE#1 could introduce no evidence showing that a superior had directed her to use MDT in this manner, there was no basis to believe that she was acting at the direction ofa supervisor when she ran the Complainant’s MDT Remote Logs as she claimed. The court found that NE#1’s use of MDT in this manner constituted harassment of the Complainant. In finding that NE#1’s statements about her reasons for running the Complainant’s MDT Remote Logs were not factually supported, the court stated that there was a “substantial chance that [NE#1] committed perjury in this courtroom.”
+
+NE#1 filed declarations related to the AHO proceeding in which she asserted that a third-party child provided details to Child Protective Services (CPS) about the interactions between one of her children and one of the Complainant’s children. Also filed in that proceeding was a declaration by the third-party child’s mother in which the mother stated that neither she nor her child were ever contacted by CPS. NE#1 also wrote in a declaration that the last time she ran the Complainant’s MDT Remote Logs was in August 2018. Subsequently, OPA determined that NE#1 accessed the Complainant’s Remote Logs in February 2019. OPA notes that this occurred after OPA sustained findings regarding similar conduct in 2018OPA-0698.
+
+During OPA’s investigation, OPA interviewed NE#1. She again stated that it was her belief that the MDT Remote Logs would provide her with real-time location data for the Complainant which she could use to avoid contact with her. She also stated that she had done this multiple times successfully. OPA allowed NE#1 to use a computer with the same MDT setup that was available to her at her duty station and asked her to access real-time location data using MDT Remote Logs. NE#1 was unable to do so. OPA also noted that MDT contains a “map” feature connected to an officer’s GPS which allows officers to obtain real-time location data separate from the MDT RemoteLog. NE#1 has been an SPD employee for 11 years and served 8 of those as a patrol officer. Consequently, she was or should have been readily familiar with MDT and its capabilities.
+
+OPA discussed with NE#1 the discrepancies in her declarations to the court. NE#1 asserted that they were due to human error. She stated that the errors were not intentional and theorized that they were due to the emotional pressure imposed on her by this investigation and the court proceedings to which she was a party. OPA alsoquestioned NE#1 regarding evidence that she ran the Complainant’s MDT Remote Logs in February 2019, after OPA found that such conduct violated SPD policy. NE#1 stated that she recognized the verbal reprimand she received in 
+
+that case as an order to cease the conduct. She stated that she last ran the Complainant’s MDT logs in August 2018, and when presented with evidence that she ran the Complainant’s MDT Remote Logs in February 2019, she stated that she did not remember doing so. 
+
+ANALYSIS AND CONCLUSIONS:
+
+Named Employee #1 -Allegations #15.001 -Standards and Duties 11. Employees Shall Be Truthful and Complete in All Communication
+
+SPD Policy 5.001-POL-11 requires Department employees to be truthful and complete in all communications.
+
+To the extent that NE#1 was untruthful to OPA during her interviews or in her representations to the court about her reasons for accessing the Complainant’s MDT Remote Logs, this would violate that policy. The court found, and OPA’s own investigation corroborates, that NE#1 could not have used MDT Remote Logs to view the Complainant’s physical location in real time. Moreover, during NE#1’s OPA’s interview it became clear that she could not demonstrate the functionality that she claimed to use on multiple occasions. OPA finds that, based on the length of her experience as an SPD officer as well as her inability to demonstrate the capability she said she used, NE#1 made intentionally inaccurate statements during her OPA interview and under oath. 
+
+Moreover, in2018OPA-0698, OPA found that NE#1 had previously accessed the Complainant’s MDT Remote Logs to take screenshots of the Complainant’s messages, which she then transmitted to others. At the AHO hearing, NE#1 claimed that she accessed the Complainant’s MDT Remote Log to avoid in-person contact with the Complainant 
+around the time that NE#1 sought the SAPO against the Complainant’s minor child, and she denied that she did so to harass the Complainant. However, the evidence conclusively indicated that accessingthe Complainant’s MDT Remote Logs and could not have served the purpose NE#1 claimed. Consistent with the court’s analysis at the hearing, OPA finds that this constituted dishonesty.
+
+In addition, while NE#1 asserted that she did not run the Complainant’sMDT Remote Logs after August 2018, this was conclusively determined to be false. OPA identified that she did so in February 2019. This is just one more example of a deliberately inaccurate statement made by NE#1. This is particularly concerning given thatshe was on notice that this behavior was improper, but she did it again anyway.
+
+Lastly, OPA notes that NE#1 consistently represented facts either inaccurately or incompletely or omitted facts not favorable to her during her OPA interview and in her representations to the Court. For example: she misstated the nature of the texts sent to her by the Complainant; she neglected to note to OPA that the Complainant had succeeded in obtaining an AHO against her; she provided conflicting accounts concerning whether her child gave inconsistent statements in an underlying proceeding; she misstated when her child started therapy; she incorrectly stated that the witness child and the child’s mother gave statements to CPS; and she inaccurately contended that she ran MDTRemote Logs as part of a Criminal Investigation Report that she was completing. While it is possible that none of these would individually rise to the level of dishonesty, taken together they represent a pattern of inaccurate and incomplete statements by NE#1 and constitute additional evidence that she violated this policy.
+
+For the above reasons, OPA recommends that this allegation be Sustained.
+
+Recommended Finding:Sustained
+
+Named Employee #1 -Allegation #25.001 -Standards and Duties 13. Employees Shall Not Use Their Position or Authority for Personal Gain
+
+SPD employees are prohibited from using their position or authority for personal gain. (SPD Policy 5.001-POL-13.)
+
+OPA finds that NE#1 violated this policy when she continued to run the Complainant’s MDT Remote Logs after being officially put on notice that doing so constituted misconduct. It is undisputed that NE#1 has access to the MDT system only by virtue of her employment as an SPD officer and that on prior occasions she has used that access for 
+personal reasons.
+
+While NE#1 stated that she did not remember running the MDT Remote Logs again, documentary evidence collected by OPA indicates that she did so in February 2019, shortly after being issued an oral reprimand. 
+
+NE#1 also admittedly printed, personally redacted, and disseminated copies of the Complainant’s MDT Remote Log as evidence in her civil matter. She obtained the materials by accessing and printing them through her personal terminal, rather than making a Public Disclosure Request and bearing the associated costs and delays. NE#1 took these actions as part of litigating a personal matter between her and the Complainant rather than for any law enforcement purpose.
+
+OPA has previously issued NE#1 a training referral relating to how Department records may be used by employees. That training, as well as her prior discipline, appears to have had no effect on NE#1’s conduct. OPA therefore 
+recommends that this allegation be Sustained.
+
+Recommended Finding:Sustained
+
+Named Employee #1 -Allegation #35.001 -Standards and Duties 10. Employees Shall Strive to be Professional
+
+SPD Policy 5.001-POL-10 requires that SPD employees “strive to be professional at all times.” The policy further instructs that “employees may not engage inbehavior that undermines public trust in the Department, the officer, or other officers.” (SPD Policy 5.001-POL-10.)
+
+OPA finds that NE#1’s pattern of behavior constituted unprofessionalism. In reaching this finding, OPA finds the court’s conclusions to be persuasive. The court determined that NE#1 had engaged in a pattern of harassment against the Complainant, which included running her MDT Remote Logs to track her location and submitting unsubstantiated legal filings against her. The court believed that this conduct, which appeared to be motivated by animus held by NE#1 for the Complainant, was severe enough that an AHO was warranted and granted the Complainant’s petition.
+
+OPA further finds that, standing alone, NE#1’s continued use of her position for personal gain and multiple knowingly inaccurate statements would also constitute unprofessional behavior.
+
+For the above reasons, OPA recommends that this allegation be Sustained.
+
+Recommended Finding: SustainedNamed Employee #1 -Allegations #45.001 -Standards and Duties 14. Retaliation is prohibited
+
+SPD policy precludes its employees from engaging in retaliation. (SPD Policy 5.001-POL-14.) SPD employees are specifically prohibited from retaliating against a person who engage in activities including, but not limited to, “oppos[ing] any practice that is reasonably believed to be unlawful or in violation of Department policy” or “who otherwise engages in lawful behavior.” (Id.) Retaliatory acts are defined broadly under SPD’s policy and include “discouragement, intimidation, coercion, or adverse action against any person. (Id.)
+
+OPA finds that NE#1’s behavior is already fully captured by the above allegations. As such, OPA recommends that this allegation be removed.
+
+Recommended Finding: Allegation Removed

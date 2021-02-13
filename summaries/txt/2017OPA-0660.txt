@@ -1,0 +1,62 @@
+v.2019 11 07Seattle
+Office of Police
+Accountability C LOSED  C ASE SUMMARY
+
+ISSUEDDATE:APRIL 3,2020
+
+CASE NUMBER:2017OPA-0660
+
+Allegationsof Misconduct & Director’s Findings
+
+Named Employee #1
+Allegation(s):Director’s Findings# 112.080 -Department Records Access, Inspection & 
+Dissemination 3. All Records That Relate to a Public Disclosure Request (PDR) Must Be Provided or Identified to the Public Disclosure Unit (PDU)Not Sustained (Inconclusive)
+
+# 25.001 -Standards and Duties 14. Employees Obey any Lawful Order Issued by a Superior OfficerAllegation Removed
+
+This Closed Case Summary (CCS) represents the opinion of the OPA Director regarding the misconduct alleged and therefore sections are written in the first person. 
+
+EXECUTIVE SUMMARY:
+
+The Complainant alleged that an SPD employee wiped a Department-issued cell phone while the contents of that phone were subject to a Public Disclosure Request (PDR).
+
+ADMINISTRATIVE NOTE:
+
+Given that no SPD employees were identified as the Named Employees in this case, the 180-day timelines imposed by the collective bargaining agreements between the City and its police unions were inapplicable to this case. As such, OPA has administratively set the date of this DCM as the 180-day deadline.
+
+ANALYSIS AND CONCLUSIONS:
+
+On July 17, 2017, the Complainant, who was the former Chief Operating Officer of SPD, made this referral to OPA. According to the Complainant, at the time of this incident, there were two active PDRs requesting all text messages between SPD employees above the rank of captain. The Complainant stated that aphone belonging to an SPD 
+Assistant Chief who was in the process of retiring from the department was “wiped” by IT, in violation of the directive from SPD legal to retain all text messages sent or received between March 11, 2015 and October 26, 2016. ThisOPA investigation ensued.
+
+OPA’s investigation identified emails sent from the SPD Legal Unit Manager to SPD’s command staff and their executive assistants notifying them of the PDR and stating that text messages must be retained. The first of these emails was sent on April 17, 2017. On April 21, the Legal Unit Manager sent a follow-up email telling staff not to attempt to attempt to individually extract text messages because the Legal Unit was trying to find a better solution. The April 21 email also directed staff to retain text messages within the above listed dates pursuant to the PDR.
+
+In addition, OPA examined a string of emails beginning on June 28, 2017 between the Legal Unit Manager and the retired Assistant Chief’s Executive Assistant. The Legal Unit Manager reminded the Executive Assistant of the PDR 
+
+v.2019 11 07and asked if the Executive Assistant was in possession of the retired Assistant Chief’s phone. The Executive Assistant replied that the retired Assistant Chief had given her his phone, but that it had since been wiped by IT. OPA also determined that both the Executive Assistant and the retired Assistant Chief had received the emails regarding the PDR in April and were, thus, on notice of the retention requirements.
+
+OPA interviewed the Executive Assistant. She stated that the retired Assistant Chief gave her his Department cell phone approximately two weeks prior to him retiring from SPD. She stated that when she received the phone, its screen was broken, and the retired Assistant Chief told her it had been broken in his care. He asked her to have IT “clear” the phone. In compliance with his instructions, the Executive Assistant placed a HEAT ticket to IT. She stated 
+that an IT employee came to her desk and reset the phone to its factory settings. After being reminded of the existence of the PDR, the Executive Assistant gave the phone to SPD Legal. SPD legal was unable to recover any text messages on the phone due to the reset. The Executive Assistant stated that she did not believe any text messages were on the phone, and that when she placed the HEAT ticket to IT, she was following the retired Assistant Chief’s explicit directions. She also stated that, based on the emails she reviewed from SPD Legal, she believed the PDR request to be “on hold.”
+
+OPA examined the HEAT ticket. The HEAT ticket reflected that the retired Assistant Chief’s email account had been compromised by a “spear phishing” attack and was sending fraudulent emails. OPA also interviewed the IT employee who wiped the phone. That IT employee stated that she recalled being asked by the Executive Assistant to “wipe” the phone because the retired Assistant Chief had separated from the Department. She did not recall other problems with the phone and stated that she completed the Executive Assistant’s request and returned the phone 
+to her. She stated that, at the time, there was no existing process for IT to check with SPD Legal regarding PDRs before wiping a phone. However, the IT employee explained that, subsequent to this case, a policy was instituted regarding PDRs. The IT employee explained that, now, Department phones are delivered first to SPD legal to check for PDRs prior to being reset.
+
+Lastly, OPA attempted to interview the retired Assistant Chief. However, he did not respond to OPA’s attempts to contact him and was ultimately not interviewed as part of this investigation.
+
+Named Employee #1 -Allegation #112.080 -Disclosure of Department Records 3. All Records That Relate to a Public Disclosure Request (PDR) Must Be Provided or Identified to the Legal Unit
+
+SPD Policy 12.080-POL-3 provides that “[i]f an employee withholds known records that relate to a PDR, he or she may be subject to civil liability and/or Department discipline.” (SPD Policy 12.080-POL-3.) The policy further states that SPD Legal will make employees aware of relevant PDRs and that “Employees will searchfor and provide records as indicated” by SPD Legal. (Id.)
+
+Based on its investigation and interviews, OPA finds insufficient evidence to establish that either the Executive Assistant or the IT employee willfully violated policy in this case. While the Executive Assistant knew or should have known that the phone’s contents were subject to a PDR, she seemed to either forget or misunderstand the requirements imposed. Moreover, in obeying her supervisor’s order to “wipe” the phone, the Executive Assistant alsoseemed to believe that she was following procedure and was carrying out the express direction of the retired Assistant Chief.
+
+v.2019 11 07Similarly, the IT employee simply responded to the HEAT ticket. Given the lack of prior coordination between IT and the Legal Unit regarding ongoing PDRs and Department phones, the IT employee cannot be faulted for failing recognizing that the phone should not be wiped.
+
+However, the possibility remains that the retired Assistant Chief did willfully violate policy by directing the Executive Assistant to wipe the phone and thus setting in motion a chain of events that caused non-compliance with a PDR. Indeed, given the retired Assistant Chief’s failure to respond to OPA’s request for an interview, OPA was unable to conclusively answer this question. As such and given the potential that the retired Assistant Chief did, in fact, act contrary to policy, OPA recommends that this allegation be Not Sustained –Inconclusive.
+
+Recommended Finding:Not Sustained (Inconclusive)
+
+Named Employee #1 -Allegation #25.001 -Standards and Duties 15. Employees Obey any Lawful Order Issued by a Superior Officer
+
+As this allegation is subsumed within Allegation #1, OPA recommends that it be removed.
+
+Recommended Finding:Allegation Removed
