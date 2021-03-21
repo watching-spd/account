@@ -1,0 +1,88 @@
+v.2020 0917Seattle
+Office of Police
+Accountability C LOSED  C ASE SUMMARY
+
+ISSUEDDATE:NOVEMBER 30,2020
+
+FROM:DIRECTOR ANDREW MYERBERG
+OFFICE OF POLICE ACCOUNTABILITY
+
+CASE NUMBER:2020OPA-0198
+
+Allegationsof Misconduct & Director’s Findings
+
+Named Employee #1
+Allegation(s):Director’s Findings# 112.040 -Department-Owned Computers, Devices & Software 1. Employees using Department-owned devices or software will follow the City’s security policyAllegation Removed
+
+# 212.050 -Criminal Justice Information Systems 2. Inquiries Through ACCESS, or Any Other Criminal Justice Record System, Are Only to Be Made for Legitimate Law Enforcement PurposesSustained
+
+# 35.001 -Standards and Duties 12. Employees Shall Not Use Their Position or Authority for Personal GainSustained
+
+# 45.001 -Standards and Duties 10. Employees Shall Be Truthful and Complete In All CommunicationSustained
+
+Imposed DisciplineTerminated Prior to Proposed DAR
+
+This Closed Case Summary (CCS) represents the opinion of the OPA Director regarding the misconduct alleged and therefore sections are written in the first person. 
+
+EXECUTIVE SUMMARY:
+
+The SPD Legal Bureau alleged that the Named Employee used restricted databases available through ACCESS for personal reasons.
+
+SUMMARY OF INVESTIGATION:
+
+On March 30, 2020, OPA received a complaint from the SPD Legal Bureau alleging that Named Employee #1 (NE#1) ran WACIC and DOL inquiries on another officer with whom NE#1 had a long-running personal dispute. The inquiries, which were made on Department computers and systems which were available to NE#1 only through her employment as an SPD officer.
+
+In prior cases, OPA has explained in detail the background between NE#1 and this other officer. (See2018OPA-0698, 2019OPA-0281, and 2019OPA-0872.) In those cases, which generally concerned conduct in 2018 (after the conduct at issue in this case), NE#1 had been found in violation of SPD policies for using her Mobile Data Terminal (MDT) access to obtain information about this other officer’s whereabouts. NE#1 was initially disciplined for using Department 
+
+resources in this manner and was instructed to not do so again in the future. She was later terminated for repeating this conduct, as well as for making dishonest statements. NE#1 is currently appealing her termination.
+
+The allegation at issue in this case is that, on October 3, 2017, NE#1’s resource history showed that she ran a license plate associated with a personal vehicle that belonged to the other officer. The query NE#1 ran was through the following databases: RMS, WACIC/NCIC, CAD Hazard, WA DOL, and OLN. These databases, which can contain sensitive criminal information, are provided to SPD officers for use in furtherance oflaw enforcement objectives. Officers are certified to use this system and are required to undergo recertification every two years, during which they are advised that they may not use the system to obtain information for personal reasons.
+
+In 2018OPA-0698, NE#1 was interviewed about whether she had used MDT to run such queries through the ACCESS database system. In that interview, she admitted to using MDT to check the other officer’s remote logs, which is a different function, but specificallydenied using ACCESS. As discussed above, NE#1 received a Sustained finding for misusing the systems and was instructed to not repeat that conduct.
+
+As part of this case, OPA again interviewed NE#1 regarding her documented queries regarding the other officer’s personal vehicle. NE#1 stated that at the time –in October 2017 –she was newly assigned to the North Precinct and had to park in the neighborhoods nearby due to space issues at the precinct. According to NE#1, it was common for her and other officers to see vehicles belonging to other officers parked improperly. As a result, NE#1 participated in a common practice of running plates to determine whether the vehicles were registered to other officers who could then be informed that they were parked improperly.
+
+At the time, NE#1 was involved in the beginnings of her personal dispute with the other officer, who was also assigned to North Precinct. NE#1 asserted in both this and other cases that, at the time, she was under a directive from her chain of command not to interact with the other officer. NE#1 stated that she did not remember the specifics of why she ran the other officer’s license plate, but she believed she must have noticed the car parked improperly when she came into work at the Burglary Unit. She recalled that, as soon as she saw the complaint belonged to the other officer, she decided to park elsewhere rather than to undergo the possibility of an interaction. NE#1 stated that this was her only reason for running the plate of the vehicle belonging to the other officer, and that she ran two other plates in close succession, suggesting that she was not targeting the other officer specifically. OPA notes that NE#1’s resource history shows her running only one plate that morning.
+
+OPA notes that, in October 2017, NE#1 was not assigned a Department vehicle and, consequently, she would have had to access MDT and the ACCESS system from her duty station in the precinct. Accordingly, and if NE#1’s description of the circumstances under which she ran thelicense plate were to be believed, this would mean that NE#1 observed three cars parked improperly, memorized or recorded their license plates, drove to a parking spot, and then went to her duty station in the precinct to run only the plate associated with the other officer, with whom she had ongoing personal conflict.
+
+At her interview, OPA asked the Complainant whether she knowingly violated policies around the use of the ACCESS system. NE#1 stated that she understood the policy prohibited personal use, but believed her queries were for a law enforcement purpose, because she observed vehicles parked improperly and wanted to notify the owners so they could rectify the error.
+
+ANALYSIS AND CONCLUSIONS:
+
+Named Employee #1 -Allegation #112.040 -Department-Owned Computers, Devices & Software 1. Employees using Department-owned devices or software will follow the City’s security policy
+
+SPD Policy 12.040-POL-1 states that employees using Department-owned devices or software will follow the City’s security policy. The policy goes on to state that employees will protect passwords, maintain confidentiality of sensitive information, accept accountability for use of their network accounts and access privileges, ensure that use of City devices is restricted to authorized purposes, and other requirements. (Id.)
+
+This policy was not in force in 2017 and, as a result, OPA recommends that this allegation be removed.
+
+Recommended Finding:Allegation Removed
+
+Named Employee #1 -Allegation #212.050 -Criminal Justice Information Systems 2. Inquiries Through ACCESS, or Any Other Criminal Justice Record System, Are Only to Be Made for Legitimate Law Enforcement Purposes
+
+SPD Policy 12.050-POL-2 states that: “Inquiries through ACCESS, or any other criminal justice record system, are only to be made for legitimate law enforcement purposes.”
+
+OPA finds that NE#1’s use of ACCESS to run the plate of the other officer was not a legitimate law enforcement 
+purpose. Even supposing that NE#1 was truly trying to run plates of vehicles she saw committing parking infractions to notify their owners, NE#1’s duties did not include parking enforcement. However, and more concerningly to OPA, NE#1’s conduct here is consistent with several prior incidents in which she used MDT and associated Department systems to obtain information about the other officer. While this conduct, standing alone, might have at one time warranted training or coaching through the chain of command, NE#1’s significant disciplinary history in this area leads OPA to conclude that she violated this policy. For that reason, OPA recommends that this allegation be Sustained.
+
+Recommended Finding: Sustained
+
+Named Employee #1 -Allegation #35.001 -Standards and Duties 12. Employees Shall Not Use Their Position or Authority for Personal Gain
+
+SPD employees are prohibited from using their position or authority for personal gain. (SPD Policy 5.001-POL-13.) To the extent that NE#1 used the ACCESS system to obtain information for personal reasons, that wouldviolate this policy.
+
+When applying the requisite burden of proof, OPA concludes that NE#1 knowingly ran the other officer’s plate for personal reasons. First, the documentation examined by OPA was consistent with NE#1 running only one plate—which happened to belong to the other officer who NE#1 had a personal issue with. NE#1’s suggestion that she ran the plate by coincidence as part of an effort to identify improperly parked cars is belied both by the fact that she only ran this plate, and because to do so she would have had to recall the plate number at her duty station. OPA 
+
+finds this conduct to be less consistent with resolving a parking issue than with using Department resources to target another officer. For this reason, OPA recommends that this allegation be Sustained.
+
+Recommended Finding: Sustained
+
+Named Employee #1 -Allegation #45.001 -Standards and Duties 11. Employees Shall Be Truthful and Complete In All Communication
+
+SPD Policy 5.001-POL-11 requires Department employees to be truthful and complete in all communications.
+
+OPA ultimately concludes that NE#1’s statements concerning her usage of Department databases are untruthful for two main reasons. First, NE#1’s account provided at her OPA interview is simply not plausible and conflicts with the available evidence. NE#1 claimed that she observed three vehicles that she suspected of belonging to other officers which were improperly parked; however, the available evidence indicated that she only ran the plate belonging to the other officer.Given NE#1’s other documented similar conduct, OPA does not believe that to be coincidental. Moreover, under her recitation of the facts, she observed three cars parked improperly, memorized or recorded their license plates, drove to a parking spot, and then went to her duty station in the precinct to run only the plate associated with the other officer, with whom she had ongoing personal conflict. Again, the more likely scenario in OPA’s estimation is that she ran the plate knowingly in violation of policy and for her own personal benefit, and then created a backstory to explain away this misconduct. Second, and as discussed above, NE#1 has repeatedly engaged in this same conduct and has also repeatedly sought to mislead OPA when questioned. This causes OPA to conclude that her statements in this case are similarly intentionally false.
+
+For these reasons, OPA recommends that this allegation be Sustained.
+
+Recommended Finding: Sustained
