@@ -2,10 +2,10 @@ const fetch = require('node-fetch')
 const fs = require('fs-extra')
 const { PdfReader } = require('pdfreader')
 
-const getMetadata = async () => {
+const getMetadata = async (dataSetId) => {
   // why this URL? no clue; I found it by watching the network requests this page makes:
   // http://www.seattle.gov/opa/news-and-reports/closed-case-summaries#2020present
-  const url = 'https://data.seattle.gov/resource/f8kp-sfr3.json'
+  const url = `https://data.seattle.gov/resource/${dataSetId}.json`
   return fetch(url).then(res => res.json())
 }
 
@@ -17,7 +17,7 @@ async function fetchPDF(summary) {
 }
 
 async function saveEach() {
-  const summaries = await getMetadata()
+  const summaries = await getMetadata('f8kp-sfr3')
   const promises = []
 
   summaries.forEach((summary) => {
@@ -77,4 +77,12 @@ async function transcribePdfs() {
   const res = await Promise.all(promises)
 }
 
-saveEach().then(() => transcribePdfs())
+// update and transcribe
+// saveEach().then(() => transcribePdfs())
+
+// transcribe only
+// transcribePdfs()
+
+module.exports = exports = {
+  getMetadata
+}

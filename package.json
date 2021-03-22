@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^9.1.0",
+    "jsdom": "^16.5.1",
     "node-fetch": "^2.6.1",
     "pdfreader": "^1.2.8"
   }
